@@ -20,5 +20,15 @@ h1 {
     font-size: 4rem;
     padding-top: 20px;
 }
+#sidebar {
+    position: absolute;
+    width: 230px;
+    height: 100%;
+    background: #09fbba;
+    top: 0;
+    /* left: -230px; */
+    transition: 0.5s ease-out;
+    z-index: 4;
+}
 
 
