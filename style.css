@@ -14,3 +14,11 @@ body {
     color: #09fbba;
     transition: 1s
 }
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 4rem;
+    padding-top: 20px;
+}
+
+
