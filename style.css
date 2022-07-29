@@ -69,6 +69,9 @@ a:hover {
 #side-bar.active {
     left: 0;
 }
+.active ~ .content {
+    opacity: 0.3;
+}
 
 
 
